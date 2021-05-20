@@ -1,4 +1,4 @@
-# Prediction_Using_Unsupervised_ML
+# Prediction Using Unsupervised Machine Learning
 Predicting the optimum number of clusters using k-means clustering algorithm from sklearn library
 
 ● From the given ‘Iris’ dataset, predict the optimum number of clusters and represent it visually.
